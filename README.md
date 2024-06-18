@@ -8,4 +8,5 @@ Este projeto visa o desenvolvimento de um sistema de cadastro de alunos que ofer
 -Jquery
 -Padrão Model View Controller (MVC). 
 
-OBS: Este projeto foi desenvolvido para um trabalho de extensão da disciplina COMPUTAÇÃO EM NUVEM da Universidade Estácio de Sá.
+> [!NOTE]
+>Este projeto foi desenvolvido para um trabalho de extensão da disciplina COMPUTAÇÃO EM NUVEM da Universidade Estácio de Sá.
