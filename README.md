@@ -7,5 +7,4 @@ Este projeto visa o desenvolvimento de um sistema de cadastro de alunos que ofer
 - Mysql
 - Ajax
 - Jquery
-- Padrão Model View Controller (MVC). 
 
